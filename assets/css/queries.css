@@ -1,0 +1,199 @@
+
+
+
+/*Small tablets to big tablets: from 1023px to 1199px*/
+@media only screen and (max-width: 1200px){
+      
+      /*Plans*/
+      
+      .plan-perks{
+    font-size: 130%;
+              }
+
+}
+  
+     
+
+
+/*Small tablets to big tablets: from 768px to 1022px*/
+@media only screen and (max-width: 1023px){
+       
+/*Navbar*/
+       
+    ul.navbar-nav{
+       font-size: 140%;
+    }
+    
+    
+    
+/*Landing Page*/
+
+.landingPage h1{
+       font-size: 330%;
+}
+
+/*Features*/
+
+.long-copy{
+       width: 100%;
+       margin: 0 auto;
+       padding-left: 3%;
+       padding-right: 3%;
+       }      
+       
+/*Plans*/
+
+.plan-container{
+       width: 50%;
+       margin-bottom: 40px;
+       margin-left: auto;
+       margin-right: auto;
+}
+   
+    
+/*Footer*/
+
+ul#footer-links.social-links{
+       margin-top: 10%;
+}
+
+
+
+}
+
+
+/*Small phones and small tablets: from 481px to 767px*/
+@media only screen and (max-width: 767px){
+       
+/*Navbar*/
+
+img.logo.img-responsive{
+       margin-left: 2%;
+}
+
+/*Landing Page*/
+       
+.landingPage h1{
+       font-size: 230%;
+}       
+       
+/*Features*/
+
+h2{
+       
+       font-size: 170%;
+}
+
+p{
+       font-size: 135%;
+}
+
+.features .container .row .box p{
+      font-size: 130%;
+}
+
+
+
+/*Plans*/
+
+.plan-container{
+       width: 80%;
+       
+}
+
+.plan-perks{
+    font-size: 100%;
+              }
+             
+.plan-price{font-size: 300%;
+            }
+
+/*Contact Us*/
+       
+.contact-form{
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+/*Footer*/
+
+ footer p{
+       font-size: 100%;
+ }
+
+
+}     
+       
+           
+
+
+
+/*Small phones from 0 to 480px*/
+@media only screen and (max-width: 480px){
+
+/*Navbar*/
+
+img.logo.img-responsive{
+       margin-left: 5%;
+}
+
+       
+/*Landing Page*/
+       
+.landingPage h1{
+       font-size: 150%;
+       text-align: center;
+       line-height: 30px;
+}
+
+
+/*Buttons*/
+
+a.btn.btn-full{
+       margin-bottom: 20px;
+       display: block;
+}
+  
+a.btn.btn-ghost{
+       display: block;
+}
+
+
+.btn-app img{
+       margin-bottom: 20px;
+       display: block;
+}
+  
+ 
+
+/*Features*/
+
+h2{
+       
+       font-size: 150%;
+}     
+       
+ 
+ 
+.app-screen{
+       display: none;
+       }
+       
+/*Footer*/
+
+ footer p{
+       font-size: 80%;
+ }
+
+ 
+ ul.footer-nav a{
+       display: block;
+ }
+     
+}
+       
+       
+      
+
+
